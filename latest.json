@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
-  "download_url": "https://github.com/AswinKumar1807/dice-auto-updater/releases/download/v1.3.0/dice.exe",
-  "changelog": "Enhanced UI"
+  "version": "1.4.0",
+  "download_url": "https://github.com/AswinKumar1807/dice-auto-updater/releases/download/v1.4.0/dice.exe",
+  "changelog": "Enhanced UI and bug fixes - Salary/Rate, Additional feature - new columns for Company Name, Posted By, Desigination"
 }
