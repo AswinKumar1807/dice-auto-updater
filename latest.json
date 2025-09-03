@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
-  "download_url": "https://github.com/AswinKumar1807/dice-auto-updater/releases/download/v1.4.0/dice.exe",
-  "changelog": "Enhanced UI and bug fixes - Salary/Rate, Additional feature - new columns for Company Name, Posted By, Desigination"
+  "version": "1.5.0",
+  "download_url": "https://github.com/AswinKumar1807/dice-auto-updater/releases/download/v1.5.0/dice.exe",
+  "changelog": "Fix Excel sheet name errors by sanitizing invalid characters and adding error handling"
 }
