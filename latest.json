@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
-  "download_url": "https://github.com/AswinKumar1807/dice-auto-updater/releases/download/v1.5.0/dice.exe",
+  "version": "1.7.0",
+  "download_url": "https://github.com/AswinKumar1807/dice-auto-updater/releases/download/v1.7.0/dice.exe",
   "changelog": "Fix change in Xpath"
 }
