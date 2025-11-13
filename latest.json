@@ -1,5 +1,5 @@
 {
-  "version": "1.9.0",
+  "version": "1.10.0",
   "download_url": "https://github.com/AswinKumar1807/dice-auto-updater/releases/download/v1.9.0/dice.exe",
-  "changelog": "bugfix - Cumulative email"
+  "changelog": "bugfix - elimination of striing in Cumulative email"
 }
